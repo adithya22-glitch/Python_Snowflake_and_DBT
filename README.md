@@ -275,7 +275,7 @@ You can schedule this Python export workflow with `cron` (Linux/macOS) or **Wind
 ---
 
 ### Dashboard Snapshot
-![image](https://github.com/user-attachments/assets/ec6ceab5-daf3-40fe-9d1e-f098d5cfd674)
+**![image](https://github.com/user-attachments/assets/ec6ceab5-daf3-40fe-9d1e-f098d5cfd674)**
 
 ---
 ### Author
