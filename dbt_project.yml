@@ -1,0 +1,15 @@
+name: bank_analytics
+version: '1.0'
+profile: bank_analytics_profile
+
+model-paths: ["dbt/models"]  
+seed-paths: ["data"]
+
+models:
+  bank_analytics:
+    staging:
+      +enabled: true
+    marts:
+      +enabled: true
+    insights:
+      +enabled: true

@@ -1,0 +1,70 @@
+# DBT Core and Snowflake Plugin
+dbt-core==1.9.4
+dbt-snowflake==1.9.4
+
+# Snowflake Python Connector and CLI
+snowflake-connector-python
+snowflake-cli-labs
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Optional: for statistical analysis
+scipy
+statsmodels
+
+# Optional: plotting and visualization (if used for offline EDA)
+matplotlib
+seaborn
+
+# SQL parsing and formatting
+sqlparse
+
+# Credential management
+keyring
+python-dotenv
+
+# For notebook development
+jupyterlab
+ipython
+
+# Linting/formatting (optional for cleaner dbt development)
+sqlfluff
+black
+# DBT Core and Snowflake Plugin
+dbt-core==1.9.4
+dbt-snowflake==1.9.4
+
+# Snowflake Python Connector and CLI
+snowflake-connector-python
+snowflake-cli-labs
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Optional: for statistical analysis
+scipy
+statsmodels
+
+# Optional: plotting and visualization (if used for offline EDA)
+matplotlib
+seaborn
+
+# SQL parsing and formatting
+sqlparse
+
+# Credential management
+keyring
+python-dotenv
+
+# For notebook development
+jupyterlab
+ipython
+
+# Linting/formatting (optional for cleaner dbt development)
+sqlfluff
+black
+
+playsound

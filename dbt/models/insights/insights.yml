@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: esg_indicator_trend
+    description: Tracks year-over-year change in ESG indicators.
+
+  - name: esg_resilience_window
+    description: Calculates rolling 3-year standard deviation of ESG values.
+
+  - name: top_gdp_weighted_esg
+    description: Ranks countries by GDP-weighted ESG score.

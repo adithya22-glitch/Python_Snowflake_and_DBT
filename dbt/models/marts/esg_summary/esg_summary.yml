@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: esg_category_aggregation
+    description: Aggregates ESG scores into Environmental, Social, and Governance categories.

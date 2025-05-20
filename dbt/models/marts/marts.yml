@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: esg_vs_population
+    description: Calculates ESG score per capita using population data.
+
+  - name: avg_esg_per_country
+    description: Computes average ESG score per country across all years.

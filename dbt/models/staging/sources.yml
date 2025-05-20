@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: BANK_DATA
+    schema: RAW_DATA
+    tables:
+      - name: bank_esg_risk
+        description: >
+          Main ESG dataset that includes country-level indicators with GDP and population.
